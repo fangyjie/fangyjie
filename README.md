@@ -23,4 +23,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=fangyjie&show_icons=true&theme=tokyonight)
 
-<p align="center">You are my ![Visitor Count](https://profile-counter.glitch.me/fangyjie/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:</p>
+You are my ![Visitor Count](https://profile-counter.glitch.me/fangyjie/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
