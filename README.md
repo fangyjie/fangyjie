@@ -20,7 +20,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/fangyjie/count.svg
 
 ![](https://github-readme-stats.vercel.app/api?username=fangyjie&show_icons=true&theme=transparent)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=fangyjie&theme=dracula)
 
 ### My Skill Set
 
