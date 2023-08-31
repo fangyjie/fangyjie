@@ -4,7 +4,7 @@
   <p>我是<strong>fyj</strong>，一名前端爱好者:two_hearts:</p>
   <ul>
     <li>🔭 正式学习前端的时间：2023.7.15 - 至今</li>
-    <li>💬 掘金主页：<a href="https://juejin.cn/user/3081285815244573">fyj-掘金</li>
+    <li>💬 掘金主页：<a href="https://juejin.cn/user/3081285815244573">fyj·掘金</li>
     <li>📫 邮箱：<span>fyj@nwafu.edu.cn</span></li>
     <li>😄 目标：成为一名前端工程师</li>
     <li>🌱 西北农林科技大学，软件工程本科在读（2021-2025）</li>
