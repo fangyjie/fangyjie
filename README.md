@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2>
 
 <div>
-  <p>我是<strong>fyj</strong>，一名前端爱好者</p>
+  <p>我是<strong>fyj</strong>，一名前端爱好者:</p>
   <ul>
     <li>🔭 正式学习前端的时间：2023.7.15 - 至今</li>
     <li>💬 掘金主页：<a href="https://juejin.cn/user/3081285815244573">fyj · 掘金</li>
