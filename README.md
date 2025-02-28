@@ -23,13 +23,13 @@
 <br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangyjie&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujie168&layout=compact&theme=tokyonight" alt="Top Langs">
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=fangyjie&show_icons=true&theme=tokyonight" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yujie168&show_icons=true&theme=tokyonight" alt="Github Stats">
 </div>
 
 <br>
 
-<p align="center">You are my <img src="https://profile-counter.glitch.me/fangyjie/count.svg" alt="Visitor Count"> visitor,Thank You!</p>
+<p align="center">You are my <img src="https://profile-counter.glitch.me/yujie168/count.svg" alt="Visitor Count"> visitor,Thank You!</p>
